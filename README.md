@@ -1,5 +1,5 @@
 # nmtc-impacts
 
-## Tracking impact of NMTC projects
+### Tracking impact of NMTC projects
 
-## (c) 2020, Ellie Stevenson, David Grubman
+### (c) 2020, Ellie Stevenson, David Grubman
